@@ -1,9 +1,9 @@
 # PF_fetcher
-Fetches an archive with .ccf files after GIBBS run
+<p align="center">Fetches an archive with .ccf files after GIBBS run.
 
 <p align="center">
-    Welcome to a mini project that fethes files from GIBBS tool output folder using JSON.
-    Initial code written by **Geoff Wood**, improved by Alex Boldin. 
+    The code Welcome to a mini project that fethes files from GIBBS tool output folder using JSON.
+    Initial code written by Geoff Wood, improved by Alex Boldin. 
   
   
 .<!-- PROJECT LOGO -->
